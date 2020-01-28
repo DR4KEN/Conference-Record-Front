@@ -1,0 +1,23 @@
+{
+  "name": "conference-record-front",
+  "version": "1.0.0",
+  "description": "Application d'enregistrement et de diffusion de conférence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DR4KEN/Conference-Record-Front.git"
+  },
+  "author": "TR/MJ/AB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DR4KEN/Conference-Record-Front/issues"
+  },
+  "homepage": "https://github.com/DR4KEN/Conference-Record-Front#readme",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "webrtc": "^1.14.1"
+  }
+}
